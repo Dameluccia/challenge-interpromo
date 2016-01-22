@@ -1,0 +1,122 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Proxima Nova",sans-serif;
+}
+header{
+  padding: 10px;
+  background-image: url("../images/banner-graphic.png");
+  color: white;
+}
+header #B{
+  border: 1px solid white;
+  padding: 2px 5px 1px;
+}
+header #BONSAI{
+  letter-spacing: 0.3em;
+}
+header a{
+  text-decoration: none;
+  color:white;
+  padding-left: 3em;
+}
+header article{
+  text-align: center;
+  padding: 7em;
+}
+header .button{
+  padding: 0.7em 2em;
+  background-color: white;
+  color :#8080B3;
+  border-radius: 5px;
+  text-decoration: none;
+}
+header article h3{
+  padding: 2em 0 3em;
+}
+nav div{
+  float: right;
+}
+nav p{
+  display: inline-block;
+}
+.section1{
+  text-align: center;
+  padding: 5em;
+  border-bottom: 1px solid #eee;
+}
+.section1 article{
+  display: inline-block;
+  color:#4C535C;
+  width: 33%;
+}
+.section1 h3{
+  padding: 1em 0 1em;
+}
+.section1 .petiteimage{
+  width: 70px;
+}
+.bordure{
+  border-right:1px solid #eee;
+  border-left: 1px solid #eee;
+}
+.section2{
+  background-color:#F6F9FB;
+  padding: 3em 0 3em;
+}
+.section2 > p{
+  text-align: center;
+  padding-bottom: 1em;
+  color: #666;
+}
+.section2{
+  text-align: center;
+  color: #4C535C;
+}
+.dollar h1{
+  color:#8080BE;
+  font-size: 4em;
+  font-weight: lighter;
+}
+.centerdiv{
+  text-align: left;
+  margin: auto;
+  width: 22%;
+}
+.dollar{
+  display: inline-block;
+  font-size: 4em;
+  color:#8080BE;
+}
+
+.PAID{
+  display: inline-block;
+}
+.centerdiv .PAID{
+  font-size: 20px;
+}
+.centerdiv .PAID span{
+  font-size: 10px;
+}
+.divgrise p{
+  color:white;
+  text-align: center;
+  padding: 2em 0 2em;
+}
+.divgrise{
+  background-color: #4C535C;
+}
+.article1 img{
+width: 520px;
+float: left;
+background-color: #7CD5EF;
+padding: 30px 50px;
+}
+.texte{
+  text-align: left;
+  color: #4C535C;
+      padding: 12em 12em 0 48em;
+}
+.clear{
+  clear: both;
+}
